@@ -15,7 +15,11 @@
 - 각각 ec2 생성하여 public key 등록
 - 게시판 api 서버 배포 및 로컬에서 접속하여 api 테스트
 
-### 2022.02.13
+### 2022.02.14
 - local에 postgresql 설치 및 연동
 - ec2에 postgresql 설치 및 연동
-- aws rds 인스턴스 생성 및 연동
+- IAM 사용자 생성 및 권한 관리
+
+### 2022.02.17
+- docker 이미지 생성 및 컨테이너 실행
+- cloudwatch 활용하여 로그 저장 및 모니터링
